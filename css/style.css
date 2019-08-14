@@ -4,9 +4,10 @@ html {
     color: white;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
-
+scroll-behavior: smooth;
 
 }
+
 
 body {
     position: relative;
